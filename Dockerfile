@@ -1,6 +1,6 @@
 FROM glanceapp/glance:latest
 
-COPY <<-EOF /app/config.yml
+COPY <<-EOF /app/glance.yml
 pages:
   - name: Home
     columns:
