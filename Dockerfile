@@ -135,17 +135,14 @@ pages:
             sites:
               - title: EU 
                 url: http://eu.023911.xyz:30080
-                # allow-insecure: true
                 icon: si:hetzner
                 
               - title: US 
                 url: http://us.023911.xyz:30080
-                # allow-insecure: true
                 icon: si:hetzner
 
               - title: ASIA 
-                url: http://asis.023911.xyz:30080
-                # allow-insecure: true
+                url: http://asia.023911.xyz:30080
                 icon: si:hetzner
 
           - type: releases
